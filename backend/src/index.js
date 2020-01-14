@@ -1,5 +1,5 @@
 const express = require('express');
-const mongoose = require('mogoose');
+// const mongoose = require('mogoose');
 const app = express();
 
 // mongoose.connect('mongodb+srv://df-oministack:oministack@cluster0-1cojt.mongodb.net/weak10?retryWrites=true&w=majority', {
